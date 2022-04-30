@@ -1,6 +1,3 @@
-print("Enter your name:")
-x = input()
-print("Hello, " + x)
-
-
-numero = int(input("\nIngresa un número entero, por favor: "))
+dato = 2
+dato2 = 3
+print('Tipo de booleano',type(dato == dato2) )
