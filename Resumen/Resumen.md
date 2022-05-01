@@ -23,3 +23,10 @@
 - tipos de datos iterables --> s = set([1,5,6]) o sino s = {1,3,4,5}
 - los set son mutables... para hacerlos inmutables hay que usar fronzenset([1,4,5])
 
+# BOOLEANOS
+- bool es un derivado de int
+- 1 es true
+- 0 es false
+
+# FOR Y WHILE
+- Repasar todos los tipos de while y for
